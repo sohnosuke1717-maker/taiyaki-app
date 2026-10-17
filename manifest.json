@@ -1,0 +1,25 @@
+{
+  "id": "./",
+  "name": "たいやき バレー部模擬店",
+  "short_name": "たいやき販売",
+  "description": "文化祭たい焼き模擬店の販売管理アプリ",
+  "lang": "ja",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#fff8ef",
+  "theme_color": "#8a3f20",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
